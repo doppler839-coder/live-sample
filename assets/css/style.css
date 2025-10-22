@@ -8322,3 +8322,7 @@ a {
     margin-top:10px;
   }
 }
+.topProducts__solutionImg img{
+    top: 50vh;
+    transform: translateY(-50%);
+}
