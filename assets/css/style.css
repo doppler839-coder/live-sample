@@ -8317,12 +8317,15 @@ a {
 .js-topAbout__text{
     width: 70%;
 }
-@media only screen and (max-width: 730px) {
+@media only screen and (max-width: 640px) {
   .mt-20{
     margin-top:10px;
   }
   .res-w-100{
     width: 100%;
+  }
+  .block{
+    display: block;
   }
 }
 .topProducts__solutionImg img{
