@@ -8278,3 +8278,16 @@ a {
 .flex{
     display: flex;
 }
+.mt-20{
+    margin-top: 20px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.img-group img{
+    width: 60%;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.4);
+}
