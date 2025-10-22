@@ -8323,6 +8323,6 @@ a {
   }
 }
 .topProducts__solutionImg img{
-    top: 50vh;
-    transform: translateY(-50%);
+    top: 50vh !important;
+    transform: translateY(50%);
 }
