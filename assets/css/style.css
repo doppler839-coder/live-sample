@@ -8216,3 +8216,10 @@ a {
   background-repeat: no-repeat;
   min-height: 100vh;
 }
+.main-logo-bg{
+    background: url("../img/common/4.avif");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
