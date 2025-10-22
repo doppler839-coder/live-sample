@@ -8334,3 +8334,6 @@ a {
 .ml-20{
     margin-left: 20px;
 }
+.topRecruit__inner{
+    height: auto !important;
+}
