@@ -8217,7 +8217,7 @@ a {
   min-height: 100vh;
 }
 .main-logo-bg{
-    width: 360% !important;
+    width: 36% !important;
     height: auto;
 }
 .font-upper{
@@ -8262,7 +8262,7 @@ a {
     width: 30%;
 }
 .bg-white{
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.4);
     color: white;
     min-height: 100%;
 }
@@ -8290,4 +8290,11 @@ a {
 .img-group img{
     width: 60%;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.4);
+}
+.bg-second{
+      background: url("../img/common/1.avif");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
