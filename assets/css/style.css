@@ -8327,6 +8327,9 @@ a {
   .block{
     display: block;
   }
+  .bold{
+    font-weight: bold;
+  }
 }
 .topProducts__solutionImg img{
     top: 50vh !important;
