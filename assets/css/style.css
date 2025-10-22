@@ -8330,6 +8330,9 @@ a {
   .bold{
     font-weight: bold;
   }
+  .pb-0{
+    padding-bottom: 0px;
+  }
 }
 .topProducts__solutionImg img{
     top: 50vh !important;
