@@ -8331,7 +8331,7 @@ a {
     font-weight: bold;
   }
   .pb-0{
-    padding-bottom: 0px;
+    padding-bottom: 0px !important;
   }
 }
 .topProducts__solutionImg img{
