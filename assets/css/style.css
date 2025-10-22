@@ -8296,5 +8296,6 @@ a {
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  min-height: 100vh;
+  min-height: 60vh;
+  color: white;
 }
