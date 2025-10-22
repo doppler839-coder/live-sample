@@ -8209,3 +8209,10 @@ a {
 .u-txt-center {
   text-align: center;
 }
+.main-bg{
+    background: url("../img/common/5.avif");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
