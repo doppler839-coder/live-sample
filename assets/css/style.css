@@ -8317,7 +8317,7 @@ a {
 .js-topAbout__text{
     width: 70%;
 }
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 768px) {
   .mt-20{
     margin-top:10px;
   }
