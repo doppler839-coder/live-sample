@@ -8325,3 +8325,9 @@ a {
 .topProducts__solutionImg img{
     top: 50vh !important;
 }
+.f-12{
+    font-size: 12px;
+}
+.pl-20{
+    padding-left: 20px;
+}
