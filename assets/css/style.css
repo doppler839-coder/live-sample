@@ -8300,5 +8300,11 @@ a {
   color: white;
 }
 .t-white{
-    color: white;
+    color: white !important;
+}
+.sub-over{
+    background-color: #efece6;
+    color: #4a4a45;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.4);
+    padding: 20px;
 }
