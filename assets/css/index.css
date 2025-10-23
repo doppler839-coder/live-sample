@@ -1436,7 +1436,8 @@ header {
   }
   .topAbout__text01.isActive {
     top: 73rem;
-    left: 173.5rem;
+    left: 50%;
+    transform: translateX(-50%);
   }
 }
 
