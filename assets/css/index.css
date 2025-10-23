@@ -218,7 +218,7 @@ header {
   transition: 0.3s;
 }
 .top__button svg path {
-  stroke: #13132d;
+  stroke: #eee;
   transition: 0.3s;
 }
 .top__button:hover {
