@@ -1551,7 +1551,7 @@ header {
   left: 30rem;
   transition: 0.6s cubic-bezier(0.83, 0, 0.17, 1);
   width: 259rem;
-  height: 35rem;
+  height: 40rem;
 }
 .topAbout__text05 img {
   width: 100%;
@@ -1567,7 +1567,7 @@ header {
   .topAbout__text05 {
     top: 428rem;
     width: 218rem;
-    height: 49rem;
+    height: 52rem;
     left: 45.5rem;
   }
   .topAbout__text05.isActive {
