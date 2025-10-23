@@ -1442,7 +1442,7 @@ header {
     top: 73rem;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 60%;
   }
 }
 
@@ -1475,7 +1475,7 @@ header {
     top: 138rem;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 60%;
   }
 }
 
@@ -1508,7 +1508,7 @@ header {
     top: 243rem;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 60%;
   }
 }
 
@@ -1541,7 +1541,7 @@ header {
     top: 308rem;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 60%;
   }
 }
 
@@ -1567,14 +1567,14 @@ header {
   .topAbout__text05 {
     top: 428rem;
     width: 218rem;
-    height: 52rem;
+    height: 57rem;
     left: 45.5rem;
   }
   .topAbout__text05.isActive {
     top: 413rem;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 60%;
   }
 }
 
@@ -1608,7 +1608,7 @@ header {
     top: 478rem;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 60%;
   }
 }
 
