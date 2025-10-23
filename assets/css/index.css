@@ -1425,7 +1425,9 @@ header {
 }
 .topAbout__text01.isActive {
   top: 58rem;
-  left: 86rem;
+  left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
 }
 @media (min-width: 768px) {
   .topAbout__text01 {
