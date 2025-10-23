@@ -8381,3 +8381,8 @@ a {
   width: 338rem !important;
   
 }
+@media (max-width: 768px) {
+  .topAbout__text01 {
+    width: 191rem;
+  }
+}
