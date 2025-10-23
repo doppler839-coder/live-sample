@@ -1466,7 +1466,8 @@ header {
   }
   .topAbout__text02.isActive {
     top: 138rem;
-    left: 150.5rem;
+     left: 50%;
+    transform: translateX(-50%);
   }
 }
 
@@ -1495,7 +1496,8 @@ header {
   }
   .topAbout__text03.isActive {
     top: 243rem;
-    left: 76.5rem;
+     left: 50%;
+    transform: translateX(-50%);
   }
 }
 
@@ -1524,7 +1526,8 @@ header {
   }
   .topAbout__text04.isActive {
     top: 308rem;
-    left: 95.5rem;
+     left: 50%;
+    transform: translateX(-50%);
   }
 }
 
@@ -1553,7 +1556,8 @@ header {
   }
   .topAbout__text05.isActive {
     top: 413rem;
-    left: 160.5rem;
+     left: 50%;
+    transform: translateX(-50%);
   }
 }
 
@@ -1583,7 +1587,8 @@ header {
   }
   .topAbout__text06.isActive {
     top: 478rem;
-    left: 129.5rem;
+     left: 50%;
+    transform: translateX(-50%);
   }
 }
 
@@ -1601,7 +1606,8 @@ header {
   height: 100%;
 }
 .topAbout__text07.isActive {
-  left: 55rem;
+   left: 50%;
+    transform: translateX(-50%);
   top: 385rem;
 }
 @media (min-width: 768px) {
