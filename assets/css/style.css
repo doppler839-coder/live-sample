@@ -8359,30 +8359,30 @@ a {
   width: 100% !important;
 }
 .topAbout__text01{
-  width: 338rem !important;
+  width: 338rem;
 }
 .topAbout__text02{
-  width: 338rem !important;
+  width: 338rem;
 
 }
 .topAbout__text03{
-  width: 338rem !important;
+  width: 338rem ;
   
 }
 .topAbout__text04{
-  width: 338rem !important;
+  width: 338rem ;
   
 }
 .topAbout__text05{
-  width: 338rem !important;
+  width: 338rem ;
   
 }
 .topAbout__text07{
-  width: 338rem !important;
+  width: 338rem ;
   
 }
 @media (max-width: 768px) {
   .topAbout__text01 {
-    width: 191rem;
+    width: 191rem ;
   }
 }
